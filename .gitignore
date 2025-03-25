@@ -1,0 +1,14 @@
+# Qt
+*.pro.user
+*.autosave
+build-*/
+
+# 编译文件
+*.exe
+*.dll
+*.o
+*.a
+
+# 临时文件
+*.qmlc
+*.jom
