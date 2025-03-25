@@ -16,5 +16,6 @@ int main(int argc, char *argv[])
     // to a.exec() or use the Non-Qt Plain C++ Application template.
     qDebug()<<"Running";
     qDebug()<<"Server";
+    //nihao
     return a.exec();
 }
